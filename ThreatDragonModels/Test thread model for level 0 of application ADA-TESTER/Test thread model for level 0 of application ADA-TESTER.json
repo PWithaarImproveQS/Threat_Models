@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Test thread model for level 0 of application ADA-TESTER",
+    "owner": "Pieter",
+    "description": "High level ADA tester. We want threats! Oh noo, we want insight in threats."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Pieter"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Level 0 of Ada-Tester",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ]
+  }
+}
